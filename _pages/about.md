@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Undergraduate @ <a href='https://www.fit.hcmus.edu.vn/'>FIT - HCMUS</a>
 
