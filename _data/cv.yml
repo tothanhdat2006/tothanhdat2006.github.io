@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tô Thành Đạt
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9th October 2006
     - name: Languages
-      value: English, German
+      value: Vietnamese (Native), English (Fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Information Technology
+      institution: University of Science, Vietnam National University, Ho Chi Minh City
+      year: 2024 - 2028
       description:
         - Description 1.
         - Description 2.
@@ -21,77 +21,50 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: None
+      institution: None
+      year: None
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - None
+        - None
+        - title: None
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+            - None
+            - None
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/tothanhdat2006/football_tracking">Football tracking</a>
+      year: 12th February 2025 - 19th February 2025
+      description: A project about using Deep Learning model to analyze track and analyze football matches.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - title: First place in Highschool STEM
+          description: Won first place in the Highschool STEM competition with a project on robotics integreted with AI.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Deep Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Vision Language Models
+        - Neural Networks
+        - Knowledge Distillation
+    - title: Computer Vision
       items:
-        - Description 1.
-        - Description 2.
+        - Image Processing
+        - Digital Signal Processing
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading books, Watch Anime etc.
