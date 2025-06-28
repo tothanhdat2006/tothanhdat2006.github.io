@@ -42,7 +42,7 @@ My current courseworks involves Data Structure & Algorithm, Linear Algebra and C
 
 # Projects
 
-- (to be updated)
+- (incoming)
 
 # Extracurricular activities
 
