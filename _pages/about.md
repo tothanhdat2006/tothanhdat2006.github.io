@@ -31,7 +31,7 @@ Looking forward, my long term vision is to research and publish impactful papers
 
 # Academic Background
 
-Currently pursuing a Bachelor's degree at University of Science - VNUHCM (GPA: 3.7/4.0).
+Currently pursuing a Bachelor's degree at University of Science - VNUHCM (GPA: 3.75/4.0).
 My current courseworks involves Data Structure & Algorithm, Linear Algebra and Calculus.
 
 # Research Interests
