@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-incoming",
+        },{id: "post-my-first-workshop-paper-accepted-at-iccv",
         
-          title: "Incoming",
+          title: "My first workshop paper accepted at ICCV 🎉",
         
-        description: "Incoming",
+        description: "This is a summary of the way I got to ICCV",
         section: "Posts",
         handler: () => {
           
@@ -46,12 +46,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-my-first-workshop-paper-accepted-at-iccv",
+          title: 'My first workshop paper accepted at ICCV🎉',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-traffic-video-captioning-amp-vqa-using-large-vision-language-model-lvlm",
+          title: 'Traffic video captioning &amp;amp; VQA using Large Vision Language Model (LVLM)',
+          description: "Finetune LVLM to enhance spatial and temporal understanding in traffic video",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
