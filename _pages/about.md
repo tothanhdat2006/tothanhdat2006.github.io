@@ -38,7 +38,7 @@ My current courseworks involves Data Structure & Algorithm, Linear Algebra and C
 
 - Deep Learning
 - Computer Vision
-- Digital Signal Processing
+- Multimodal Language Models
 
 # Projects
 
